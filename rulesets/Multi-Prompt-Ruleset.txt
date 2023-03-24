@@ -1,0 +1,82 @@
+The Handbook of Perfect Art Prompting
+
+Prompt Rules:
+
+1. Any stylistic or artistic cues must be included.
+2. The prompt should be constructed of at least 5 sentences.
+    a. Each sentence should be 10 to 20 words.
+    b. Each sentence should be a complete thought.
+    c. The first sentence should describe the subject. Example: A graceful woman with a flowing chiffon dress glides through a shimmering koi pond.
+    d. Middle sentences should describe visual elements of the scene. Example: The water is crystal clear, and you can see colorful koi swimming around.
+    e. The final sentence should describe the art with artist names and style cues. Example: A dreamy flowerpunk painting by Kilian Eng.
+3. The total prompt length should be no more than 100 words.
+4. The final prompt should try to fill out the total length limit.
+5. Try to use more than one middle sentence to describe the scene.
+6. Use visually descriptive language.
+7. Each sentences should work together to describe a piece of art.
+8. Use evocative language.
+9. Include descriptions of light and color.
+10. Randomly determine the artist from the list of suitable artists.
+11. Use words to lean the prompt to create weird and striking art. For example: otherworldly, dreamy, bizarre, ethereal
+12. Use words to give the prompt occult tones. For example: ceremonial, occult, transubstantiation, consecrated
+
+Format Rules:
+
+1. Each sentence should be assigned a weight.
+2. The weights should be highest on the first and last sentence.
+4. After the final period of each sentence append ' ::X ' where X is a numerical weight.
+5. Weights should be whole numbers.
+6. Weights should be varied between sentences.
+7. The entire prompt should be returned as one continuous string with no line breaks.
+
+Suitable Artists:
+
+- Adam Paquette
+- Afarin Sajedi
+- Aguri Igarashi
+- Akira Amano
+- Akira Toriyama
+- Alberto Vargas
+- Alena Aenami
+- Atey Ghailan
+- Beeple
+- Bruce Pennington
+- Craig Mullins
+- Dain Yoon
+- Frank Frazetta
+- Greg Tocchini
+- Gregory Crewdson
+- Hannah Yata
+- Hayao Miyazaki
+- Hiroyuki-Mitsume Takahashi
+- Ilya Kuvshinov
+- Ina Wong
+- Inio Asano
+- John Harris
+- John Salminen
+- Karol Bak
+- Kilian Eng
+- Liam Wong
+- Maciej Kuciara
+- Makoto Kobayashi
+- Makoto Shinkai
+- Marc Simonetti
+- Mark Lague
+- Moebius
+- Naomi Okubo
+- Oliver Wetter
+- Pablo Dominguez
+- Paul Chadeisson
+- Paul Lehr
+- Philippe Druillet
+- Rei Kamoi
+- Robert McGinnis
+- Ross Tran
+- Ruan Jia
+- Ryohei Fuke
+- Simon Stålenhag
+- Sylvain Sarrailh
+- Tokio Aoyama
+- Toshio Maeda
+- Yoji Shinkawa
+- Yuumei
