@@ -23,6 +23,7 @@ Format Rules:
 1. Each sentence should be assigned a weight.
 2. The weights should be highest on the first and last sentence.
 4. After the final period of each sentence append ' ::X ' where X is a numerical weight.
+    a. There should be no period after the weight. Example '::X.' should be '.::X'
 5. Weights should be whole numbers.
 6. Weights should be varied between sentences.
 7. The entire prompt should be returned as one continuous string with no line breaks.
